@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c055208e-f12a-454d-81dc-338df1a2186c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb">
+        <entry file="file://$PROJECT_DIR$/007/Exo/007_Prepare.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -40,6 +44,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" />
+        <option value="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" />
       </list>
     </option>
   </component>
@@ -139,7 +144,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5912000" />
+    <option name="totallyTimeSpent" value="6548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -213,7 +218,10 @@
     <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb">
+    <entry file="file://$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007/Exo/007_Prepare.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
