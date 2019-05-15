@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c055208e-f12a-454d-81dc-338df1a2186c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb" afterDir="false" />
@@ -15,16 +17,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb">
         <entry file="file://$PROJECT_DIR$/001/Exo/001_Guess_the_number_two_player.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/007/Exo/007_Prepare.ipynb">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
         <entry file="file://$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -44,6 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" />
+        <option value="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" />
         <option value="$PROJECT_DIR$/001/Exo/001_Exo.ipynb" />
         <option value="$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb" />
       </list>
@@ -79,6 +90,7 @@
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
+              <item name="007" type="462c0819:PsiDirectoryNode" />
               <item name="001" type="462c0819:PsiDirectoryNode" />
               <item name="Exo" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -117,22 +129,7 @@
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
               <item name="007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="008" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="008" type="462c0819:PsiDirectoryNode" />
-              <item name="Fred_Soluce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="009" type="462c0819:PsiDirectoryNode" />
+              <item name="Exo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
@@ -205,6 +202,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7323000" />
     <option name="totallyTimeSpent" value="4816000" />
   </component>
   <component name="TodoView">
@@ -217,11 +215,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <frame x="34" y="7" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30149254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Jupyter" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Jupyter" visible="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,6 +233,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42560554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32932165" />
@@ -276,6 +286,11 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_FonctionsFred.ipynb" />
+    <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
+    <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_FonctionsFred.ipynb" />
     <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -285,9 +300,11 @@
     <entry file="file://$PROJECT_DIR$/011/Notebook/011_Programmation_Fonctionnelle.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb">
     <entry file="file://$PROJECT_DIR$/010/Notebook/010_lambda_map_reduce_filter.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/007/Exo/007_Prepare.ipynb">
     <entry file="file://$PROJECT_DIR$/012/Notebook/012_jupyter_notebook_utils.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
