@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c055208e-f12a-454d-81dc-338df1a2186c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +144,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6548000" />
+    <option name="totallyTimeSpent" value="7323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
