@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c055208e-f12a-454d-81dc-338df1a2186c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/001/Fred_Soluce/001_DebutsFred.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/Fred_Soluce/002_CaracteresFred.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/Notebook/002_Caracteres.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/Notebook/003_Listes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/Notebook/004_Iterations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005/Notebook/005_Pandas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006/Notebook/006_RecapitulatifDesBases.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007/Fred_Soluce/007_OS_&amp;_ConfigurationFred.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008/Fred_Soluce/008_Pandas_&amp;_FonctionsFred.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009/Notebook/009_Classes_&amp;_Fonctions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008/Exo/008.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,67 +14,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002/Notebook/002_Caracteres.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/003/Notebook/003_Listes.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/004/Notebook/004_Iterations.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/005/Notebook/005_Pandas.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/006/Notebook/006_RecapitulatifDesBases.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb">
+        <entry file="file://$PROJECT_DIR$/008/Exo/008.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb">
+        <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/ExosPython.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/008/Exo/008.ipynb" />
       </list>
     </option>
   </component>
@@ -122,42 +72,6 @@
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="002" type="462c0819:PsiDirectoryNode" />
-              <item name="Fred_Soluce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="005" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="006" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
               <item name="008" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,6 +79,12 @@
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
               <item name="008" type="462c0819:PsiDirectoryNode" />
               <item name="Fred_Soluce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
+              <item name="008" type="462c0819:PsiDirectoryNode" />
+              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
@@ -179,30 +99,27 @@
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="010" type="462c0819:PsiDirectoryNode" />
-              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="100" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="011" type="462c0819:PsiDirectoryNode" />
+              <item name="101" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="011" type="462c0819:PsiDirectoryNode" />
-              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="102" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="012" type="462c0819:PsiDirectoryNode" />
+              <item name="103" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
-              <item name="012" type="462c0819:PsiDirectoryNode" />
-              <item name="Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="104" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,22 +128,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/012" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Maxime\Documents\git\ExosPython\010\Notebook" />
-      <recent name="C:\Users\Maxime\Documents\git\ExosPython\008\Notebook" />
-      <recent name="C:\Users\Maxime\Documents\git\ExosPython\009\Notebook" />
-      <recent name="C:\Users\Maxime\Documents\git\ExosPython\001\Fred_Soluce" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Maxime\Documents\git\ExosPython\012" />
       <recent name="C:\Users\Maxime\Documents\git\ExosPython\011" />
       <recent name="C:\Users\Maxime\Documents\git\ExosPython\010" />
       <recent name="C:\Users\Maxime\Documents\git\ExosPython\009" />
       <recent name="C:\Users\Maxime\Documents\git\ExosPython\008" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maxime\Documents\git\ExosPython\010\Notebook" />
+      <recent name="C:\Users\Maxime\Documents\git\ExosPython\008\Notebook" />
+      <recent name="C:\Users\Maxime\Documents\git\ExosPython\009\Notebook" />
+      <recent name="C:\Users\Maxime\Documents\git\ExosPython\001\Fred_Soluce" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -256,20 +174,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="767000" />
+    <option name="totallyTimeSpent" value="2583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="500" y="13" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Jupyter" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -277,15 +191,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/001/Fred_Soluce/001_DebutsFred.ipynb">
@@ -321,19 +252,17 @@
     <entry file="file://$PROJECT_DIR$/006/Notebook/006_RecapitulatifDesBases.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_FonctionsFred.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_FonctionsFred.ipynb" />
     <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb">
+    <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/008/Exo/008.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb">
+    <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
