@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c055208e-f12a-454d-81dc-338df1a2186c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008/Exo/008.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/008/Exo/008_Function_Print.ipynb" afterDir="false" />
+>>>>>>> 008
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +22,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/007/Exo/007_Create_Delete_List_Files.ipynb">
         <entry file="file://$PROJECT_DIR$/001/Exo/001_Guess_the_number_two_player.ipynb">
+=======
+        <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb">
+>>>>>>> 008
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/007/Exo/007_Prepare.ipynb">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb">
@@ -35,6 +45,9 @@
         </entry>
       </file>
         <entry file="file://$PROJECT_DIR$/001/Notebook/001_Debuts.ipynb">
+=======
+        <entry file="file://$PROJECT_DIR$/008/Exo/008_Function_Print.ipynb">
+>>>>>>> 008
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -53,10 +66,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/007/Exo/007_Os_Conf.ipynb" />
         <option value="$PROJECT_DIR$/007/Exo/007_Prepare.ipynb" />
         <option value="$PROJECT_DIR$/001/Exo/001_Exo.ipynb" />
         <option value="$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb" />
+=======
+        <option value="$PROJECT_DIR$/008/Exo/008.ipynb" />
+>>>>>>> 008
       </list>
     </option>
   </component>
@@ -85,11 +102,16 @@
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="001" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="008" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 008
             </path>
             <path>
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="007" type="462c0819:PsiDirectoryNode" />
               <item name="001" type="462c0819:PsiDirectoryNode" />
               <item name="Exo" type="462c0819:PsiDirectoryNode" />
@@ -145,6 +167,10 @@
               <item name="ExosPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExosPython" type="462c0819:PsiDirectoryNode" />
               <item name="012" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="008" type="462c0819:PsiDirectoryNode" />
+              <item name="Exo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 008
             </path>
           </expand>
           <select />
@@ -156,7 +182,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/012" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+>>>>>>> 008
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -202,6 +232,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7323000" />
     <option name="totallyTimeSpent" value="4816000" />
   </component>
@@ -213,10 +244,14 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+=======
+    <option name="totallyTimeSpent" value="3512000" />
+>>>>>>> 008
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
+<<<<<<< HEAD
     <frame x="34" y="7" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -227,6 +262,12 @@
       <window_info anchor="bottom" id="Jupyter" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Jupyter" visible="true" weight="0.32871974" />
+=======
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> 008
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -239,6 +280,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -247,6 +289,10 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932165" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.25135428" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Jupyter" order="13" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+>>>>>>> 008
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,6 +302,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/002/Fred_Soluce/002_CaracteresFred.ipynb">
@@ -286,6 +343,7 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_FonctionsFred.ipynb" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
     <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
     <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
@@ -321,6 +379,18 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/001/Exo/001_Guess_the_number_solo.ipynb">
+=======
+    <entry file="file://$PROJECT_DIR$/007/Notebook/007_OS_&amp;_Configuration.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/010/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/011/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/012/Notebook/009_Classes_&amp;_Fonctions.ipynb" />
+    <entry file="file://$PROJECT_DIR$/008/Notebook/008_Pandas_&amp;_Fonctions.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/008/Exo/008_Function_Print.ipynb">
+>>>>>>> 008
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
